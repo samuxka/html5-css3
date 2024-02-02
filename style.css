@@ -1,4 +1,10 @@
-.teste{
-    width: 50%;
-    background-color: yellow;
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(img/wallpaper003.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
 }
